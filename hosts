@@ -4,4 +4,4 @@
 172.31.0.192
 
 [webserver:vars]
-webserveronubuntu = apache2
+webserveronubuntu= apache2
